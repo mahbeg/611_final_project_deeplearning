@@ -1,3 +1,5 @@
 .DS_Store
 .idea/
 .idea/*
+/veterinary_triage_urgency_model/
+/final_urgency_model/
