@@ -1,3 +1,4 @@
+torch
 # Core (adjust versions to match your .venv)
 tensorflow>=2.12
 numpy
