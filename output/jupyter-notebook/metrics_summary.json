@@ -1,0 +1,17 @@
+{
+  "dataset_2500_samples": 2499,
+  "dataset_10k_samples": 9984,
+  "image_train_images": 14355,
+  "image_validation_images": 4115,
+  "image_test_images": 2110,
+  "bow_2500_test_accuracy": 0.736,
+  "bow_2500_macro_f1": 0.7077732998013069,
+  "bow_10k_test_accuracy": 0.7907907907907908,
+  "bow_10k_macro_f1": 0.777227228341242,
+  "biobert_10k_test_accuracy": 0.8408408408408409,
+  "biobert_10k_macro_f1": 0.8326081313750627,
+  "biobert_10k_weighted_f1": 0.8410357184702208,
+  "biobert_10k_ner_token_accuracy": 0.9252351859638708,
+  "readme_image_final_accuracy_pct": 94.0,
+  "readme_text_final_accuracy_pct": 84.1
+}
